@@ -1,1 +1,6 @@
 - opengl: QT + OpenGL + CUDA
+- gl-vtk: QT + OpenGL + VTK
+- test-vtkShader: QT + OpenGL + VTK, Use VTK OpenGL helper classes, such as:
+  - vtkShaderProgram
+  - vtkShader
+  - vtkOpenGLShaderCache. to cache and bind shaders
