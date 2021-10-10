@@ -5,3 +5,4 @@ x86/
 *~
 .DS_Store
 build/
+build-with-*/
